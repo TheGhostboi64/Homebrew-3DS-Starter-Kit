@@ -5,4 +5,4 @@ That's right! It's here! But this time, It'll be updated more often when homebre
 ## How to install properly
 
 ## Step 1
-Cl
+This is under construction, please do not download the release yet until further notice.
