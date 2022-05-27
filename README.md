@@ -2,7 +2,7 @@
 That's right! It's here! But this time, It'll be updated more often when homebrew apps included in the software are updated.
 
 
-## How to install properly
+## Instructions
 
 ## Step 1
 Copy the contents inside of the zip file to the root of your SD Card.
