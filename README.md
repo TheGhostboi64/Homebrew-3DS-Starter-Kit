@@ -2,12 +2,12 @@
 That's right! It's here! But this time, It'll be updated more often when homebrew apps included in the software are updated.
 
 ## Credits
-*Luma3DS - Luma Team  
-*Godmode9 - d0k3
-*Universal Updater - Universal-Team
-*3DS Homebrew Launcher aka 3ds-hbmenu - devkitPro
-*FBI - Steven Smith
-*DSP1 - zoogie 
+* Luma3DS - Luma Team  
+* Godmode9 - d0k3
+* Universal Updater - Universal-Team
+* 3DS Homebrew Launcher aka 3ds-hbmenu - devkitPro
+* FBI - Steven Smith
+* DSP1 - zoogie 
 ## Instructions
 
 ## Step 1
